@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Rahul Vijan an Under-Grad in Electronics and Telecommunications at Xavier Institute of Engineering.       
+- 👋 Hi, I’m Rahul Vijan, an Under-Grad in Electronics and Telecommunications at Xavier Institute of Engineering.       
 - 👀 I’m interested in Architecting, Developing and, Integrating technologies in the following domains:  
->1. Cloud Computing  
+>1. Cloud  
 >2. IoT / Embedded Systems   
 >3. ML / DL  
 >4. Networking  
 - 🌱 I’m currently:    
->1. Developing an ADAS System using the Jetson Nano Development Kit (by Nvidia) with the help of Deep Learning.  
+>1. Developing an ADAS System using the Jetson Nano Development Kit (by Nvidia) using Deep Learning.  
 >2. Developing an Android Application using Flutter which can play a video stream from an IoT Board using AWS IoT.  
 >3. Upcoming Certifications: LPI: Linux Essentials, Az 204, Az 104, Az 305, AWS SSA. 
 - 💞️ I’m more than happy to collaborate on any projects coming under the aforementioned domains 
