@@ -7,7 +7,7 @@
 - 🌱 I’m currently:    
 >1. Developing an ADAS System using the Jetson Nano Development Kit (by Nvidia) using Deep Learning.  
 >2. Developing an Android Application using Flutter which can play a video stream from an IoT Board using AWS IoT.  
->3. Upcoming Certifications: LPI: Linux Essentials, Az 204, Az 104, Az 305, AWS SSA. 
+>3. Upcoming Certifications: LPI: Linux Essentials, Safetty Certified Level 1, Az 204, Az 104, Az 305, AWS SSA. 
 - 💞️ I’m more than happy to collaborate on any projects coming under the aforementioned domains 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-RahulVijan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rahulv24/)
  
