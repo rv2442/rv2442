@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rahul Vijan, an Under-Grad in Electronics and Telecommunications at Xavier Institute of Engineering.       
+- 👋 Hi, I’m Rahul Vijan, an Under-Grad (Senior, Sem 7) in Electronics and Telecommunications at Xavier Institute of Engineering.       
 - 👀 I’m interested in Architecting, Developing and, Integrating technologies in the following domains:  
 >1. Cloud  
 >2. IoT / Embedded Systems   
