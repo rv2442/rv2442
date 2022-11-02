@@ -49,7 +49,7 @@ You can click the Preview link to take a look at your changes.
 
 <table>
   <tr>
-    <td width="50%"><a href="https://skyline.github.com/rv2442/2022"><img width="100%" src="https://user-images.githubusercontent.com/121322/154592158-63bb7160-daa7-49ab-8fb7-a21092f3e1f1.gif"></a><br><sup><strong>Website:</strong> GitHub Skyline</sup>
+    <td width="50%"><a href="https://skyline.github.com/rv2442/2022"><img width="100%" src="https://github.com/rv2442/rv2442/blob/main/mainskyline.gif"></a><br><sup><strong>Website:</strong> GitHub Skyline</sup>
  </tr>
 </table>
 
