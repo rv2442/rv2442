@@ -56,8 +56,8 @@ You can click the Preview link to take a look at your changes.
 </table>
 
 
-
+<!--
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/rv2442/count.svg" />
-</p>
+</p> -->
