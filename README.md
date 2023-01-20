@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rahul Vijan, an Under-Grad (Senior, Sem 7) in Electronics and Telecommunications at Xavier Institute of Engineering.       
+- 👋 Hi, I’m Rahul Vijan, an Under-Grad (Senior, Sem 8) in Electronics and Telecommunications at Xavier Institute of Engineering.       
 - 👀 I’m interested in Architecting, Developing and, Integrating technologies in the following domains:  
 >1. Cloud  
 >2. IoT / Embedded Systems   
@@ -7,7 +7,7 @@
 - 🌱 I’m currently:    
 >1. Developing an ADAS System using the Jetson Nano Development Kit (by Nvidia) using Deep Learning.  
 >2. Developing an Android Application using Flutter which can play a video stream from an IoT Board using AWS IoT.  
->3. Enrolled in a Nanodegree on Udacity powered by OLX named, FrontEnd Development using React-JS for the role of a Senior FE Dev.
+>3. Volunteering as a Microsoft Learn Student Ambassador 
 >4. Upcoming Certifications: LPI: Linux Essentials, Safetty Certified Level 1, Az 204, Az 104, Az 305, AWS SSA, I(SC)^2 Cyber Security Certification. 
 - 💞️ I’m more than happy to collaborate on any projects coming under the aforementioned domains 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-RahulVijan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rahulv24/)
